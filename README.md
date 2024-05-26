@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Danail
 - 👀 I’m interested in natural intelligence that creates artificial intelligence.
 - 🌱 I’m currently learning at SoftUni
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me: DOlegov.students@softuni.bg
 
 <!---
